@@ -32,12 +32,12 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 1. Gathering data from the 'Customers' table using XLOOKUP
   a) Gathering 'customer name' data
-      - ![Screenshot 1](screenshots/Picture1.png)
+      - ![Screenshot 1](screenshots/Picture_1.png)
   b) Gathering 'Email' data
       - Utilising a nested IF statement to remove zero values from columns where the customer does not have an email
-      - ![Screenshot 2](screenshots/Picture2.png)
+      - ![Screenshot 2](screenshots/Picture_2.png)
   c) Gathering 'Country' data
-      - ![Screenshot 3](screenshots/Picture3.png)
+      - ![Screenshot 3](screenshots/Picture_3.png)
 
 
 
