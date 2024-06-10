@@ -10,7 +10,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 - **Data Exploration**: Leveraged pivot tables to summarize and explore the dataset efficiently. Extracted key metrics and visualized trends to identify patterns and insights within the data.
 
-- **Dashboard Development**: Designed an interactive and visually appealing dashboard to present the analysis findings. The dashboard features charts, slicers, and a timeline to enable dynamic data segmentation and enhance interactivity for stakeholders.
+- **Dashboard Development**: Designed an interactive and visually appealing dashboard to present the analysis findings. The dashboard features charts, slicers and a timeline to enable dynamic data segmentation and enhance interactivity for stakeholders.
 
 ## Key Features
 
