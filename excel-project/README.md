@@ -63,15 +63,14 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
     a) Creating Slicers "Size", "Roast Type Name",  
 
-    b) Creating a slicer "Loyalty Card" by data gathering using XLOOKUP
+    b) Data gathering using XLOOKUP to creating a slicer for "Loyalty Card" 
          - ![Screenshot 12](screenshots/Picture_12.png)
+
    
-
-
-4. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
+3. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
    - ![Screenshot 13](screenshots/Picture_13.png)
 
-5. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
+4. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
    - ![Screenshot 14](screenshots/Picture_14.png)
 
 **Interactive Dashboard Visualisation**
