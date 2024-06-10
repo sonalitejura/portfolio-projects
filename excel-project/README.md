@@ -72,7 +72,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    - [Screenshot 13](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_13.png)
 
 4. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
-   - [Screenshot 14](screenshots/Picture_14.png)
+   - [Screenshot 14](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_14.png)
 
 **Interactive Dashboard Visualisation**
      - [Screenshot 15](screenshots/Picture_15.png)
