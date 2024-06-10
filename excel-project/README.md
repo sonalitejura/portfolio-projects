@@ -57,15 +57,14 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 1. Converting the data into a tabular format 
    - ![Screenshot 9](screenshots/Picture_9.png)
 
-2. Pivot Chart & Line Chart to illustrate "Total Sales Over Time"
-   a) Pivot table and inital line chart  ![Screenshot 10](screenshots/Picture_10.png)
-   b) Creation of a timeline and chart formatting ![Screenshot 11](screenshots/Picture_11.png)
+2. Pivot Chart, Line Chart & Timeline to illustrate "Total Sales Over Time"
+    ![Screenshot 10](screenshots/Picture_10.png)
+    ![Screenshot 11](screenshots/Picture_11.png)
 
-3. Creating Slicers for "Size", "Roast Type Name" and "Loyalty Card"
-       - Using XLOOKUP to gather "loyalty card" data from the customer prior to slicer creation.
-       - ![Screenshot 12](screenshots/Picture_12.png)
+   a) Using XLOOKUP to gather "loyalty card" data ![Screenshot 12](screenshots/Picture_12.png)
+   b) Creating Slicers "Size", "Roast Type Name", "Loyalty Card" 
 
-4. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
+3. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
    - ![Screenshot 13](screenshots/Picture_13.png)
 
 5. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
