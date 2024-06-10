@@ -55,7 +55,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 **Pivot Chart Analysis and Visualisations**
 1. Converting the data into a tabular format 
-   - [Screenshot 9](screenshots/Picture_9.png)
+   - [Screenshot 9](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_9.png)
 
 2. Pivot Chart, Line Chart & Timeline to illustrate "Total Sales Over Time"
    - [Screenshot 10](screenshots/Picture_10.png)
