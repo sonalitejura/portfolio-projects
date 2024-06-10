@@ -67,6 +67,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
          - ![Screenshot 12](screenshots/Picture_12.png)
 
    
+
 3. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
    - ![Screenshot 13](screenshots/Picture_13.png)
 
