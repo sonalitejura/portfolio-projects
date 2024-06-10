@@ -33,12 +33,8 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 **Data Gathering**
 
 1. Gathering Customer data using XLOOKUP
-  a) Gathering 'customer name' data
       - ![Screenshot 1](screenshots/Picture_1.png)
-  b) Gathering 'Email' data
-      - Utilising a nested IF statement to remove zero values from columns where the customer does not have an email
       - ![Screenshot 2](screenshots/Picture_2.png)
-  c) Gathering 'Country' data
       - ![Screenshot 3](screenshots/Picture_3.png)
 
 2. Gathering product data using INDEX-MATCH
@@ -52,26 +48,21 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
  - ![Screenshot 6](screenshots/Picture_6.png)
 
 2. Data Formatting 
-   a) Changing the format of the "Order Date" column to dd.mmm.yyy
-   b) Formatting the "Size" column to contain a "kg" unit
-   c) Formatting the "Unit Price" and "Sales" columns to include a $
    - ![Screenshot 7](screenshots/Picture_7.png)
 
 3. Checking for Duplicates
    - ![Screenshot 8](screenshots/Picture_8.png)
 
 **Pivot Chart Analysis and Visualisations**
-1. Converting the data into a tabular format to allow easy modification of pivot tables.
+1. Converting the data into a tabular format 
    - ![Screenshot 9](screenshots/Picture_9.png)
 
 2. Pivot Chart & Line Chart to illustrate "Total Sales Over Time"
    a) Pivot table and inital line chart  ![Screenshot 10](screenshots/Picture_10.png)
    b) Creation of a timeline and chart formatting ![Screenshot 11](screenshots/Picture_11.png)
 
-3. Creating Slicers
-   a) A slicer for "Size" and "Roast Type Name"
-   b) A slicer for "loyalty card"
-       - Using XLOOKUP to gather "loyalty card" data from the customer table to be able to create the slicer.
+3. Creating Slicers for "Size", "Roast Type Name" and "Loyalty Card"
+       - Using XLOOKUP to gather "loyalty card" data from the customer prior to slicer creation.
        - ![Screenshot 12](screenshots/Picture_12.png)
 
 4. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
