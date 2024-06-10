@@ -34,48 +34,48 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 1. Gathering Customer data using XLOOKUP
    - [Screenshot 1](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_1.png) 
-   - ![Screenshot 2](screenshots/Picture_2.png)
-   - ![Screenshot 3](screenshots/Picture_3.png)
+   - [Screenshot 2](screenshots/Picture_2.png)
+   - [Screenshot 3](screenshots/Picture_3.png)
 
 2. Gathering product data using INDEX-MATCH
-   - ![Screenshot 4](screenshots/Picture_4.png)
+   - [Screenshot 4](screenshots/Picture_4.png)
 
 3. Populating the 'Sales' column using unit price * quantity
-   - ![Screenshot 5](screenshots/Picture_5.png)
+   - [Screenshot 5](screenshots/Picture_5.png)
 
 **Data Cleaning**
 1. Creating 'Coffee Type Name' and 'Roast Type Name' columns using IF statements
-   - ![Screenshot 6](screenshots/Picture_6.png)
+   - [Screenshot 6](screenshots/Picture_6.png)
 
 2. Data Formatting 
-   - ![Screenshot 7](screenshots/Picture_7.png)
+   - [Screenshot 7](screenshots/Picture_7.png)
 
 3. Checking for Duplicates
-   - ![Screenshot 8](screenshots/Picture_8.png)
+   - [Screenshot 8](screenshots/Picture_8.png)
 
 **Pivot Chart Analysis and Visualisations**
 1. Converting the data into a tabular format 
-   - ![Screenshot 9](screenshots/Picture_9.png)
+   - [Screenshot 9](screenshots/Picture_9.png)
 
 2. Pivot Chart, Line Chart & Timeline to illustrate "Total Sales Over Time"
-   - ![Screenshot 10](screenshots/Picture_10.png)
-   - ![Screenshot 11](screenshots/Picture_11.png)
+   - [Screenshot 10](screenshots/Picture_10.png)
+   - [Screenshot 11](screenshots/Picture_11.png)
 
     a) Creating Slicers "Size", "Roast Type Name",  
 
     b) Data gathering using XLOOKUP to creating a slicer for "Loyalty Card" 
-         - ![Screenshot 12](screenshots/Picture_12.png)
+         - [Screenshot 12](screenshots/Picture_12.png)
 
    
 
 3. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
-   - ![Screenshot 13](screenshots/Picture_13.png)
+   - [Screenshot 13](screenshots/Picture_13.png)
 
 4. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
-   - ![Screenshot 14](screenshots/Picture_14.png)
+   - [Screenshot 14](screenshots/Picture_14.png)
 
 **Interactive Dashboard Visualisation**
-     - ![Screenshot 15](screenshots/Picture_15.png)
+     - [Screenshot 15](screenshots/Picture_15.png)
 
 
 ## Conclusion
