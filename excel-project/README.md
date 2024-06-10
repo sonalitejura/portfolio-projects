@@ -71,7 +71,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    - ![Screenshot 14](screenshots/Picture_14.png)
 
 **Interactive Dashboard Visualisation**
-   - ![Screenshot 14](screenshots/Picture_14.png)
+  - ![Screenshot 15](screenshots/Picture_15.png)
 
 
 ## Conclusion
