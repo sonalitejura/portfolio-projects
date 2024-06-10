@@ -44,7 +44,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    - ![Screenshot 5](screenshots/Picture_5.png)
 
 **Data Cleaning**
-1. Creating new columns for 'Coffee Type Name' and 'Roast Type Name' using IF statements
+1. Creating 'Coffee Type Name' and 'Roast Type Name' columns using IF statements
  - ![Screenshot 6](screenshots/Picture_6.png)
 
 2. Data Formatting 
