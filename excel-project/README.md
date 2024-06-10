@@ -31,6 +31,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 ## Screenshots
 
 **Data Gathering**
+
 1. Gathering Customer data using XLOOKUP
   a) Gathering 'customer name' data
       - ![Screenshot 1](screenshots/Picture_1.png)
