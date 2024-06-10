@@ -28,6 +28,21 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    
 3. **Interact with the Dashboard**: Use the slicers and timeline to filter and analyze the data dynamically. Explore the charts and visualizations to gain insights into coffee bean sales performance.
 
+## Screenshots
+
+1. Gathering data from the 'Customers' table using XLOOKUP
+  a) Gathering 'customer name' data
+      - ![Screenshot 1](screenshots/Picture1.png)
+  b) Gathering 'Email' data
+      - Utilising a nested IF statement to remove zero values from columns where the customer does not have an email
+      - ![Screenshot 2](screenshots/Picture2.png)
+  c) Gathering 'Country' data
+      - ![Screenshot 3](screenshots/Picture3.png)
+
+
+
+
+
 ## Conclusion
 
 This Excel data analysis project showcases proficiency in data management, exploration, and visualization using Excel's advanced features. The interactive dashboard provides stakeholders with actionable insights to inform business decisions and strategies.
