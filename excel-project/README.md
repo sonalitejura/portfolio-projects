@@ -14,7 +14,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 ## Key Features
 
-- **Data Cleaning**: Ensured data quality by removing duplicates, handling missing values, and standardizing data formats.
+- **Data Cleaning**: Ensured data quality by removing duplicates, handling missing values and standardizing data formats.
   
 - **Pivot Tables**: Utilized pivot tables to summarize and analyze sales data by various dimensions such as country, date and product type.
   
