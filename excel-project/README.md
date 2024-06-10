@@ -33,9 +33,9 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 **Data Gathering**
 
 1. Gathering Customer data using XLOOKUP
-      - ![Screenshot 1](screenshots/Picture_1.png)
-      - ![Screenshot 2](screenshots/Picture_2.png)
-      - ![Screenshot 3](screenshots/Picture_3.png)
+   - ![Screenshot 1](screenshots/Picture_1.png)
+   - ![Screenshot 2](screenshots/Picture_2.png)
+   - ![Screenshot 3](screenshots/Picture_3.png)
 
 2. Gathering product data using INDEX-MATCH
    - ![Screenshot 4](screenshots/Picture_4.png)
@@ -45,7 +45,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 **Data Cleaning**
 1. Creating 'Coffee Type Name' and 'Roast Type Name' columns using IF statements
- - ![Screenshot 6](screenshots/Picture_6.png)
+   - ![Screenshot 6](screenshots/Picture_6.png)
 
 2. Data Formatting 
    - ![Screenshot 7](screenshots/Picture_7.png)
