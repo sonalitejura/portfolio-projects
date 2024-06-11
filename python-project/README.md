@@ -19,7 +19,7 @@ Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-d
 - **NumPy**: Used for numerical computing and array manipulation.
 - **Pandas**: Utilised for data manipulation and analysis, including cleaning, transformation and aggregation of data.
 - **Matplotlib**: Employed for creating static and animated visualisations in Python.
-- **Seaborn**: Utilised for statistical data visualization, providing a high-level interface for drawing informative and visually appealing plots.
+- **Seaborn**: Utilised for statistical data visualisation, providing a high-level interface for drawing informative and visually appealing plots.
 
 ## How to Use
 
