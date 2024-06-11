@@ -26,9 +26,9 @@ Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-d
 1. Clone the repository to your local machine.
 2. Install the required libraries (NumPy, Pandas, Matplotlib, Seaborn) using the following command: pip install numpy pandas matplotlib seaborn
 3. Navigate to the project directory.
-4. Run the Python scripts to execute data analysis and visualization tasks.
+4. Run the Python scripts to execute data analysis and visualisation tasks.
 
 ## Conclusion
 
-This project demonstrates proficiency in Python programming and data analysis techniques, showcasing the ability to clean and analyze large datasets, derive meaningful insights, and communicate findings effectively through visualization.
+This project demonstrates proficiency in Python programming and data analysis techniques, showcasing the ability to clean and analyse large datasets, derive meaningful insights and communicate findings effectively through visualisation.
 
