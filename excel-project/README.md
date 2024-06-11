@@ -26,7 +26,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    
 2. **Explore the Data**: Navigate through the different sheets to view the raw data, pivot tables, and dashboard.
    
-3. **Interact with the Dashboard**: Use the slicers and timeline to filter and analyze the data dynamically. Explore the charts and visualizations to gain insights into coffee bean sales performance.
+3. **Interact with the Dashboard**: Use the slicers and timeline to filter and analyse the data dynamically. Explore the charts and visualisations to gain insights into coffee bean sales performance.
 
 ## Screenshots
 
