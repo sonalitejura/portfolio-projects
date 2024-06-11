@@ -12,7 +12,7 @@ Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-d
 
 - **Exploratory Data Analysis (EDA)**: Conducted thorough EDA to uncover patterns and trends within the dataset. Formulated hypotheses and utilised summary statistics and visualisations to gain insights into the data.
 
-- **Hypothesis Testing**: Formulated and tested hypotheses using various visualization techniques, a including dual-axis chart, scatter plots, and subplots. Communicated findings effectively through visual representations.
+- **Hypothesis Testing**: Formulated and tested hypotheses using various visualisation techniques, including a dual-axis chart, scatter plots and subplots. Communicated findings effectively through visual representations.
 
 ## Key Libraries
 
