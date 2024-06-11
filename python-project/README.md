@@ -10,7 +10,7 @@ Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-d
 
 - **Data Wrangling**: Employed advanced data wrangling techniques, including error handling with try-except blocks, applied lambda expressions and custom functions, to ensure the integrity and quality of the dataset.
 
-- **Exploratory Data Analysis (EDA)**: Conducted thorough EDA to uncover patterns and trends within the dataset. Formulated hypotheses and utilized summary statistics and visualizations to gain insights into the data.
+- **Exploratory Data Analysis (EDA)**: Conducted thorough EDA to uncover patterns and trends within the dataset. Formulated hypotheses and utilised summary statistics and visualizations to gain insights into the data.
 
 - **Hypothesis Testing**: Formulated and tested hypotheses using various visualization techniques, a including dual-axis chart, scatter plots, and subplots. Communicated findings effectively through visual representations.
 
