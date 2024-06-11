@@ -8,7 +8,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 - **Dataset Management**: Sourced and cleaned the dataset to ensure data integrity and accuracy. Utilised advanced Excel functions such as XLOOKUP and INDEX-MATCH for efficient data gathering and manipulation.
 
-- **Data Exploration**: Leveraged pivot tables to summarise and explore the dataset efficiently. Extracted key metrics and visualized trends to identify patterns and insights within the data.
+- **Data Exploration**: Leveraged pivot tables to summarise and explore the dataset efficiently. Extracted key metrics and visualised trends to identify patterns and insights within the data.
 
 - **Dashboard Development**: Designed an interactive and visually appealing dashboard to present the analysis findings. The dashboard features charts, slicers and a timeline to enable dynamic data segmentation and enhance interactivity for stakeholders.
 
