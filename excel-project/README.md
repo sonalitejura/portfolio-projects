@@ -6,7 +6,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 ## Project Highlights
 
-- **Dataset Management**: Sourced and cleaned the dataset to ensure data integrity and accuracy. Utilized advanced Excel functions such as XLOOKUP and INDEX-MATCH for efficient data gathering and manipulation.
+- **Dataset Management**: Sourced and cleaned the dataset to ensure data integrity and accuracy. Utilised advanced Excel functions such as XLOOKUP and INDEX-MATCH for efficient data gathering and manipulation.
 
 - **Data Exploration**: Leveraged pivot tables to summarize and explore the dataset efficiently. Extracted key metrics and visualized trends to identify patterns and insights within the data.
 
