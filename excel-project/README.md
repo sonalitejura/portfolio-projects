@@ -80,5 +80,5 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 ## Conclusion
 
-This Excel data analysis project showcases proficiency in data management, exploration, and visualization using Excel's advanced features. The interactive dashboard provides stakeholders with actionable insights to inform business decisions and strategies.
+This Excel data analysis project showcases proficiency in data management, exploration and visualisation using Excel's advanced features. The interactive dashboard provides stakeholders with actionable insights to inform business decisions and strategies.
 
