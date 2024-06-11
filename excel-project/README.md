@@ -61,9 +61,9 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    - [Screenshot 10](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_10.png)
    - [Screenshot 11](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_11.png)
 
-    a) Creating Slicers "Size", "Roast Type Name",  
+    a) Creating Slicers for "Size" and "Roast Type Name"
 
-    b) Data gathering using XLOOKUP to creating a slicer for "Loyalty Card" 
+    b) Data gathering using XLOOKUP to create a slicer for "Loyalty Card" 
          - [Screenshot 12](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_11.png)
 
    
