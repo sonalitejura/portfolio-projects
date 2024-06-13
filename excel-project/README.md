@@ -41,7 +41,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    ![Picture_4](https://github.com/sonalitejura/portfolio-projects/assets/172199569/ba2977b9-b487-46fb-a2a3-ceae54366f94)
 
 3. Populating the 'Sales' column using unit price * quantity
-   - [Screenshot 5](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_5.png)
+   ![Picture_5](https://github.com/sonalitejura/portfolio-projects/assets/172199569/9c4699b1-6906-47fb-aa6f-90366b9c2e8f) 
 
 **Data Cleaning**
 1. Creating 'Coffee Type Name' and 'Roast Type Name' columns using IF statements
