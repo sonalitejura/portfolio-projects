@@ -35,7 +35,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 1. Gathering Customer data using XLOOKUP
    - ![Picture_1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/bb747467-8ebf-44a8-8931-2a78ded52cd7)
    - ![Picture_2](https://github.com/sonalitejura/portfolio-projects/assets/172199569/932cfec6-3867-4863-a275-0fc2eb50e67e)
-   - [Screenshot 3](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_3.png)
+   - ![Picture_3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/57b95286-e844-41b3-b3ab-010e9c5fea67)
 
 2. Gathering product data using INDEX-MATCH
    - [Screenshot 4](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_4.png)
