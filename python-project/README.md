@@ -10,7 +10,7 @@ Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-d
 1. Ensure the dataset is accurate, complete and ready for analysis.
 2. Gain insights into the characteristics and trends of ultramarathon races.
 3. Formulate hypotheses concerning ultramarathon races.
-4. Provide insights based on the findings from data cleaning, EDA, and hypothesis testing.
+4. Provide insights based on the findings from data cleaning, exploratory data analysis and hypothesis testing.
 
 ## Project Highlights
 
