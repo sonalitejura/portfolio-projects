@@ -38,7 +38,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 ![Picture_3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/57b95286-e844-41b3-b3ab-010e9c5fea67)
 
 2. Gathering product data using INDEX-MATCH
-   - [Screenshot 4](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_4.png)
+   ![Picture_4](https://github.com/sonalitejura/portfolio-projects/assets/172199569/ba2977b9-b487-46fb-a2a3-ceae54366f94)
 
 3. Populating the 'Sales' column using unit price * quantity
    - [Screenshot 5](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_5.png)
