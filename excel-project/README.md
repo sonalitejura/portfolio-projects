@@ -33,7 +33,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 **Data Gathering**
 
 1. Gathering Customer data using XLOOKUP
-   - [Screenshot 1](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_1.png) 
+   - ![Picture_1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/bb747467-8ebf-44a8-8931-2a78ded52cd7)
    - [Screenshot 2](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_2.png)
    - [Screenshot 3](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_3.png)
 
