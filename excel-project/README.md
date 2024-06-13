@@ -62,16 +62,17 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
    ![Picture_11](https://github.com/sonalitejura/portfolio-projects/assets/172199569/e78f566d-4253-4743-a91d-450cfbcda37e)
 
     a) Creating Slicers for "Size" and "Roast Type Name"
+   ![slicers](https://github.com/sonalitejura/portfolio-projects/assets/172199569/8bc83a4b-bc4d-4ca9-9db9-1d702f8167b0)
 
     b) Data gathering using XLOOKUP to create a slicer for "Loyalty Card" 
          - [Screenshot 12](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_12.png)
 
    
 
-3. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
+4. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
    - [Screenshot 13](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_13.png)
 
-4. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
+5. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
    - [Screenshot 14](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_14.png)
 
 **Interactive Dashboard Visualisation**
