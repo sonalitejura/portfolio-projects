@@ -78,7 +78,7 @@ b) Data gathering using XLOOKUP to create a slicer for "Loyalty Card"
 ![Picture_14](https://github.com/sonalitejura/portfolio-projects/assets/172199569/ba31d218-fb31-462f-b4e8-a3a51c31ed3d)
 
 **Interactive Dashboard Visualisation**
-     - [Screenshot 15](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_15.png)
+![Picture_15](https://github.com/sonalitejura/portfolio-projects/assets/172199569/753613a5-f7a3-4932-9aab-22adc5efa38e)
 
 
 ## Conclusion
