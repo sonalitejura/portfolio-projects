@@ -72,7 +72,7 @@ b) Data gathering using XLOOKUP to create a slicer for "Loyalty Card"
    
 
 4. Pivot Chart and Bar Chart to illustrate the "Sales by Country"
-![Picture_12](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c9def736-acc0-4a18-b228-491d39a44404)
+![Picture_13](https://github.com/sonalitejura/portfolio-projects/assets/172199569/447f310e-0ec5-4f70-9a66-5154101ea936)
 
 5. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
    - [Screenshot 14](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_14.png)
