@@ -7,7 +7,7 @@ This project involves comprehensive data analysis of a dataset containing over 7
 Link to Dataset: [Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running) 
 
 ## Project Aims
-1. Ensure the dataset is accurate, complete, and ready for analysis.
+1. Ensure the dataset is accurate, complete and ready for analysis.
 2. Gain insights into the characteristics and trends of ultramarathon races.
 3. Formulate hypotheses concerning ultramarathon races.
 4. Provide insights based on the findings from data cleaning, EDA, and hypothesis testing.
