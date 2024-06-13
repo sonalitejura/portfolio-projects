@@ -75,7 +75,7 @@ b) Data gathering using XLOOKUP to create a slicer for "Loyalty Card"
 ![Picture_13](https://github.com/sonalitejura/portfolio-projects/assets/172199569/447f310e-0ec5-4f70-9a66-5154101ea936)
 
 5. Pivot Chart and Bar Chart to illustrate the "Top 5 Customers"
-   - [Screenshot 14](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_14.png)
+![Picture_14](https://github.com/sonalitejura/portfolio-projects/assets/172199569/ba31d218-fb31-462f-b4e8-a3a51c31ed3d)
 
 **Interactive Dashboard Visualisation**
      - [Screenshot 15](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_15.png)
