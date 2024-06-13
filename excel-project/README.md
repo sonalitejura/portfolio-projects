@@ -2,7 +2,12 @@
 
 ## Project Overview
 
-This Excel project involves the analysis of a dataset comprising 2,000 coffee bean sales records across various US cities. The project encompasses dataset management, data exploration and dashboard development to derive actionable insights from the data.
+This Excel project involves the analysis of a dataset comprising 2,000 coffee bean sales records across different countries. The project encompasses dataset management, data exploration and dashboard development to derive actionable insights from the data.
+
+# Project Aims:
+  1. Evaluate sales performance over time and identify trends.
+  2. Identify top customers and understand their purchasing behavior.
+  3. Explore sales distribution across different countries. 
 
 ## Project Highlights
 
