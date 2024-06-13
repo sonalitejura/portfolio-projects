@@ -59,7 +59,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 
 2. Pivot Chart, Line Chart & Timeline to illustrate "Total Sales Over Time"
    ![Picture_10](https://github.com/sonalitejura/portfolio-projects/assets/172199569/7452cc69-9d22-47f7-b346-f5cc65499afc)
-   - [Screenshot 11](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_11.png)
+   ![Picture_11](https://github.com/sonalitejura/portfolio-projects/assets/172199569/e78f566d-4253-4743-a91d-450cfbcda37e)
 
     a) Creating Slicers for "Size" and "Roast Type Name"
 
