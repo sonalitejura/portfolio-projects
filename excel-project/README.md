@@ -51,7 +51,7 @@ This Excel project involves the analysis of a dataset comprising 2,000 coffee be
 ![Picture_7](https://github.com/sonalitejura/portfolio-projects/assets/172199569/b4d03550-a43b-4363-9102-3dd309869f67)
 
 3. Checking for Duplicates
-   - [Screenshot 8](https://github.com/sonalitejura/portfolio-projects/blob/main/excel-project/screenshots/screenshots/Picture_8.png)
+   ![Picture_8](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5cdd4aff-0e79-4bd8-bbd1-62d1362d107f)
 
 **Pivot Chart Analysis and Visualisations**
 1. Converting the data into a tabular format 
