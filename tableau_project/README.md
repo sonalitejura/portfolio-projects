@@ -24,8 +24,6 @@ Deliver actionable insights into sales performance, customer behaviour and profi
   
   - **Interactive Features**: Implemented an actionable filter, for dynamic updates based on user interaction/
 
-![Dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5470760b-2d06-4eca-aa64-78e4916be264)
-
 
 # Dashboard Setup Steps
 
@@ -63,6 +61,7 @@ Deliver actionable insights into sales performance, customer behaviour and profi
 7. **Product Analysis**
    - Created a treemap to visualise product popularity and profitability.
    - Incorporated the 'Year' filter to track yearly trends.
+![treemap](https://github.com/sonalitejura/portfolio-projects/assets/172199569/759ff583-e481-491d-85d3-cf3198f813e6)
 
 8. **Performance Metrics**
    - Calculated:
@@ -74,6 +73,7 @@ Deliver actionable insights into sales performance, customer behaviour and profi
    - Developed the dashboard layout.
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
+![Dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5470760b-2d06-4eca-aa64-78e4916be264)
 
 ## Conclusion
 This project demonstrates data analysis techniques visualisations to drive business insights and informed decision making. 
