@@ -20,9 +20,9 @@ To deliver actionable insights into sales performance, customer behaviour and pr
   
   - **Product Performance**: Designed a treemap visualisation to showcase product popularity and profitability trends.
   
-  - **Time-Based Analysis**: Integrated a yearly filter, allowing users to explore and analyse time-based trends.
+  - **Time-Based Analysis**: Integrated a yearly filter to allow users to explore and analyse time-based trends.
   
-  - **Interactive Features**: Implemented an actionable filter, for dynamic updates based on user interaction/
+  - **Interactive Features**: Implemented an actionable filter for dynamic updates based on user interaction.
 
 
 # Dashboard Setup Steps
