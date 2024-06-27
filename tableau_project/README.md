@@ -47,7 +47,7 @@ To deliver actionable insights into sales performance, customer behaviour and pr
 ![profit_to_colour](https://github.com/sonalitejura/portfolio-projects/assets/172199569/94c69dd3-7809-44c7-8f2d-86f0057b49d2)
 
 5. **Customer vs. Profit Scatter Plot**
-   - Created a scatter plot to analyse customer segments against profit.
+   - Created a scatter plot to analyse customer purchases against profit.
    - Applied the 'Year' filter to the scatter plot for temporal insights.
 ![scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/6a6f3d8b-8d00-4669-885b-164b8ed44bce)
 
