@@ -1,7 +1,7 @@
 # Tableau Data Analysis Project - European Profitability Insights
 
 ## Project Overview:
-This project showcases various data analysis and visualisation techniques applied to a dataset of 4,000+ product sales across Europe. 
+This project showcases data analysis and visualisation techniques applied to a dataset of 4,000+ product sales across Europe. 
 
 [Link to Tableau Public Interative Dashboard](https://public.tableau.com/app/profile/sonali.tejura/viz/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture?publish=yes) 
 
