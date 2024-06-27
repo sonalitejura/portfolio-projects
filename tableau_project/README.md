@@ -1,4 +1,4 @@
-## Tableau - European Profitability Insights: Technology, Office Supplies and Furniture
+# Tableau Data Analysis Project - European Profitability Insights
 
 ## Project Overview:
 This project showcases various data analysis and visualisation techniques applied to a dataset of over 4000 product sales across Europe. 
