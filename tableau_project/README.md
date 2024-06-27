@@ -4,13 +4,14 @@
 This project showcases data analysis and visualisation techniques applied to a dataset of 4,000+ product sales across Europe. 
 
 [Link to Tableau Public Interative Dashboard](https://public.tableau.com/app/profile/sonali.tejura/viz/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture?publish=yes) 
+Navigate to the 'See this in full screen' button on the bottom right corner to optimally view the dashboard.
 
 ## Project Aims:
 To deliver actionable insights into sales performance, customer behaviour and profitability. 
 
 ## Data Analysis and Dashboard Development
 
-- **Data Preparation**: Employing advanced techniques such as table joins and calculated fields for comprehensive analysis.
+- **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
 
 - **Dashboard Design**: Developed an interactive dashboard to deliver actionable insights on sales and profitability metrics.
 
