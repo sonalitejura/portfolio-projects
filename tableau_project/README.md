@@ -6,7 +6,7 @@ This project showcases data analysis and visualisation techniques applied to a d
 [Link to Tableau Public Interative Dashboard](https://public.tableau.com/app/profile/sonali.tejura/viz/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture?publish=yes) 
 
 ## Project Aims:
-Deliver actionable insights into sales performance, customer behaviour and profitability. 
+To deliver actionable insights into sales performance, customer behaviour and profitability. 
 
 ## Data Analysis and Dashboard Development
 
