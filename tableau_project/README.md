@@ -43,7 +43,6 @@ To deliver actionable insights into sales performance, customer behaviour and pr
    - Calculated profit margin using a calculated field.
    - Assigned profit margin to 'colour' for visual differentiation (each colour represents a different profit margin range).
 ![Picture 1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/416c7ac1-35ff-4ac8-81a9-ef58ad9ae513)
-
   ![profit_to_colour](https://github.com/sonalitejura/portfolio-projects/assets/172199569/94c69dd3-7809-44c7-8f2d-86f0057b49d2)
 
 5. **Customer vs. Profit Scatter Plot**
