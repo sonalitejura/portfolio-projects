@@ -52,10 +52,9 @@ To deliver actionable insights into sales performance, customer behaviour and pr
 ![scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/6a6f3d8b-8d00-4669-885b-164b8ed44bce)
 
 6. **Scatter Plot Formatting**
-   - Adjusted settings:
-     - Mapped profit margin to colour for visual distinction.
-     - Changed color scheme to red-blue, shape to circle and increased circle size.
-     - Set transparency to 75% to manage overlapping circles.
+   - Mapped profit margin to colour for visual distinction.
+   - Changed colour scheme to red-blue, shape to circle and increased circle size.
+   - Set transparency to 75% to manage overlapping circles.
 ![formatted_scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/22779cc5-5813-4a02-9807-548729e2c86e)
 
 7. **Product Analysis**
