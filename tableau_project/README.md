@@ -25,7 +25,7 @@ To deliver actionable insights into sales performance, customer behaviour and pr
   - **Interactive Features**: Implemented an actionable filter for dynamic updates based on user interaction.
 
 
-# Dashboard Setup Steps
+## Dashboard Setup Steps
 
 1. **Geographical Mapping**
    - Created a 'Geography' hierarchy with Country, City and State.
