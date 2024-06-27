@@ -24,3 +24,4 @@ Deliver actionable insights into sales performance, customer behaviour and profi
 
 - **Interactive Features**: Implemented an actionable filter, allowing users to update charts dynamically by clicking on specific map regions for localised insights.
 
+![Dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5470760b-2d06-4eca-aa64-78e4916be264)
