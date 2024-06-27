@@ -26,5 +26,8 @@ Deliver actionable insights into sales performance, customer behaviour and profi
 
 ![Dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5470760b-2d06-4eca-aa64-78e4916be264)
 
+## Project Explanations
+
+
 ## Conclusion
 This project demonstrates data analysis techniques visualisations to drive business insights and informed decision making. 
