@@ -32,6 +32,7 @@ Deliver actionable insights into sales performance, customer behaviour and profi
 1. **Geographical Mapping**
    - Created a 'Geography' hierarchy with Country, City and State.
    - Set granularity to 'State' for detailed regional analysis.
+![Geography](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5b917125-9727-4bea-8449-2a9072db8b9d)
 
 2. **Year Filter**
    - Created a filter for 'Year' formatted as a single-value slider.
