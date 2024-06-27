@@ -58,6 +58,7 @@ Deliver actionable insights into sales performance, customer behaviour and profi
      - Mapped profit margin to colour for visual distinction.
      - Changed color scheme to red-blue, shape to circle and increased circle size.
      - Set transparency to 75% to manage overlapping circles.
+![formatted_scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/22779cc5-5813-4a02-9807-548729e2c86e)
 
 7. **Product Analysis**
    - Created a treemap to visualise product popularity and profitability.
