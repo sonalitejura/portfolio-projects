@@ -18,7 +18,7 @@ To deliver actionable insights into sales performance, customer behaviour and pr
   
   - **Customer Insights**: Utilised a scatter plot to identify high-value customers for targeted marketing efforts.
   
-  - **Product Performance**: Designed a treemap visualisation to showcase product popularity and profitability trends/
+  - **Product Performance**: Designed a treemap visualisation to showcase product popularity and profitability trends.
   
   - **Time-Based Analysis**: Integrated a yearly filter, allowing users to explore and analyse time-based trends.
   
