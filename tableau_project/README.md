@@ -39,6 +39,7 @@ Deliver actionable insights into sales performance, customer behaviour and profi
 
 3. **Sales Visualization**
    - Moved 'Sales' to 'size' to visually compare sales volumes across regions (larger dots represent higher sales).
+![Sales](https://github.com/sonalitejura/portfolio-projects/assets/172199569/df22f986-d0a6-44e3-955c-056caaa1f65c)
 
 4. **Profit Margin Analysis**
    - Calculated profit margin using a calculated field.
