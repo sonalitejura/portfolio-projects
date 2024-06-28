@@ -8,7 +8,9 @@ This project showcases data analysis and visualisation techniques applied to a d
 - ![full_screen](https://github.com/sonalitejura/portfolio-projects/assets/172199569/0d71818d-c7ea-4062-be17-ebc63dc19571)
 
 ## Project Aims
-To deliver actionable insights into sales performance, customer behaviour and profitability. 
+1. Deliver actionable insights into sales performance and identify key trends.
+2. Analyse customer behavior to understand purchasing patterns and preferences.
+3. Evaluate profitability and identify the main drivers affecting financial success. 
 
 ## Project Highlights
 - **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
