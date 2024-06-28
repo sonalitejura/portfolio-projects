@@ -10,8 +10,7 @@ This project showcases data analysis and visualisation techniques applied to a d
 ## Project Aims:
 To deliver actionable insights into sales performance, customer behaviour and profitability. 
 
-## Data Analysis and Dashboard Development
-
+## Project Highlights:
 - **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
 
 - **Dashboard Design**: Developed an interactive dashboard to deliver actionable insights on sales and profitability metrics.
