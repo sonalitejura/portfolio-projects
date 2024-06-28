@@ -1,16 +1,16 @@
 # Tableau Data Analysis Project - European Profitability Insights
 
-## Project Overview:
+## Project Overview
 This project showcases data analysis and visualisation techniques applied to a dataset of 4,000+ product sales across Europe. 
 
 [Link to Tableau Public Interative Dashboard](https://public.tableau.com/app/profile/sonali.tejura/viz/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture/EuropeanProfitabilityInsightsTechnologyOfficeSuppliesandFurniture?publish=yes) 
 - To optimally view the dashboard, navigate to the 'See this in full screen' button located on the bottom right corner of the dashboard.
 - ![full_screen](https://github.com/sonalitejura/portfolio-projects/assets/172199569/0d71818d-c7ea-4062-be17-ebc63dc19571)
 
-## Project Aims:
+## Project Aims
 To deliver actionable insights into sales performance, customer behaviour and profitability. 
 
-## Project Highlights:
+## Project Highlights
 - **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
 
 - **Dashboard Design**: Developed an interactive dashboard to deliver actionable insights on sales and profitability metrics.
