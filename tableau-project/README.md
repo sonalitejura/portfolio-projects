@@ -72,7 +72,6 @@ This project showcases data analysis and visualisation techniques applied to a d
   ![Picture2](https://github.com/sonalitejura/portfolio-projects/assets/172199569/42cfa4cb-6361-4943-8c32-a20cc0c898a1)
   ![Picture3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c16a81e6-fc73-4ae6-a61c-d12f53dc514a)
 
-
 - Created a calculated field to illustrate the difference between actual sales and sales target.
   - Simplified the existing chart by implementing 'category' data as filter
   - Created a calculated field called 'Excess of Target'
@@ -84,7 +83,8 @@ This project showcases data analysis and visualisation techniques applied to a d
    - Developed the dashboard layout.
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
-![Picture6](https://github.com/sonalitejura/portfolio-projects/assets/172199569/913a1688-d95e-48b4-b611-99a61b1c9eeb)
+![Picture6](https://github.com/sonalitejura/portfolio-projects/assets/172199569/a7456060-610a-4cee-84b2-a92f52e04ab1)
+
 
 ## Conclusion
 This project demonstrates data analysis techniques and visualisations to drive business insights and informed decision making. 
