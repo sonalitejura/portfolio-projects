@@ -76,7 +76,7 @@ This project showcases data analysis and visualisation techniques applied to a d
   - Simplified the existing chart by implementing 'category' data as filter
   - Created a calculated field called 'Excess of Target'
   - Formatted the chart - changed the colour scheme to red-blue, changed the font size and made the text bold
-![Picture4](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c23c74b0-41e9-4c7a-8500-71e5f029bb50)
+![Picture4](https://github.com/sonalitejura/portfolio-projects/assets/172199569/6712a4f4-0c6a-4629-8e49-7bf97c2ae913)
 ![Picture5](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5069455b-20af-4c1f-bf4d-083fd955d777)
     
 9. **Dashboard Creation**
