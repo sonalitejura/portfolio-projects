@@ -60,16 +60,17 @@ This project showcases data analysis and visualisation techniques applied to a d
 ![formatted_scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/22779cc5-5813-4a02-9807-548729e2c86e)
 
 7. **Sales Performance Analysis**
-   - Created a new data source for 'Sales Target'
-     - Moved ‘Sales’ data to rows, changed the line chart into a bar chart and increased the white space between the bars.
-     - Placed 'categories' into rows and then mapped it to colour for comparative analysis.
+- Created a new data source for 'Sales Target'
+    - Moved ‘Sales’ data to rows, changed the line chart into a bar chart and increased the white space between the bars.
+    - Placed 'categories' into rows and then mapped it to colour for comparative analysis.
    - ![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
 
-  b) Utilised data blending to create a dual-axis chart for sales performance
+- Utilised data blending to create a dual-axis chart for sales performance
   - Moved 'Target' data to rows, enabling direct comparison with sales figures.
   - Transformed the visualisation into an area chart to easily identify trends.
   - Created a dual-axis chart with a synchornised axis, facilitating seamless comparisons of sales and targets.
-
+- ![Picture2](https://github.com/sonalitejura/portfolio-projects/assets/172199569/42cfa4cb-6361-4943-8c32-a20cc0c898a1)
+- ![Picture3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c16a81e6-fc73-4ae6-a61c-d12f53dc514a)
 
 
   c) Created a calculated field to illustrate the difference between actual sales and sales target.
