@@ -61,8 +61,8 @@ This project showcases data analysis and visualisation techniques applied to a d
 
 7. **Sales Performance Analysis**
 - Created a new data source for 'Sales Target'
-    - Moved ‘Sales’ data to rows, changed the line chart into a bar chart and increased the white space between the bars.
-    - Placed 'categories' into rows and then mapped it to colour for comparative analysis.
+    - Moved ‘Sales’ data to rows, created a bar chart and increased the white space between the bars.
+    - Assigned 'categories' to rows and mapped it to colour for comparative analysis.
      ![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
 
 - Utilised data blending to create a dual-axis chart for sales performance
