@@ -84,7 +84,7 @@ This project showcases data analysis and visualisation techniques applied to a d
    - Developed the dashboard layout.
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
-![Dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5470760b-2d06-4eca-aa64-78e4916be264)
+![Picture6](https://github.com/sonalitejura/portfolio-projects/assets/172199569/913a1688-d95e-48b4-b611-99a61b1c9eeb)
 
 ## Conclusion
 This project demonstrates data analysis techniques and visualisations to drive business insights and informed decision making. 
