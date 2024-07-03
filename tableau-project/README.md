@@ -13,7 +13,7 @@ This project showcases data analysis and visualisation techniques applied to a d
 3. Analyse customer behavior to understand purchasing patterns and preferences.
 
 ## Project Highlights
-- **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
+- **Data Preparation**: Employed advanced techniques such as table joins, calculated fields and data blending for comprehensive analysis.
 
 - **Dashboard Design**: Developed an interactive dashboard to deliver actionable insights on sales and profitability metrics.
 
