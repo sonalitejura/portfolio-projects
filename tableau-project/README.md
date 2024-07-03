@@ -63,30 +63,24 @@ This project showcases data analysis and visualisation techniques applied to a d
 - Created a new data source for 'Sales Target'
     - Moved ‘Sales’ data to rows, changed the line chart into a bar chart and increased the white space between the bars.
     - Placed 'categories' into rows and then mapped it to colour for comparative analysis.
-   - ![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
+     ![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
 
 - Utilised data blending to create a dual-axis chart for sales performance
   - Moved 'Target' data to rows, enabling direct comparison with sales figures.
   - Transformed the visualisation into an area chart to easily identify trends.
   - Created a dual-axis chart with a synchornised axis, facilitating seamless comparisons of sales and targets.
-- ![Picture2](https://github.com/sonalitejura/portfolio-projects/assets/172199569/42cfa4cb-6361-4943-8c32-a20cc0c898a1)
-- ![Picture3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c16a81e6-fc73-4ae6-a61c-d12f53dc514a)
+  ![Picture2](https://github.com/sonalitejura/portfolio-projects/assets/172199569/42cfa4cb-6361-4943-8c32-a20cc0c898a1)
+  ![Picture3](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c16a81e6-fc73-4ae6-a61c-d12f53dc514a)
 
 
-  c) Created a calculated field to illustrate the difference between actual sales and sales target.
+- Created a calculated field to illustrate the difference between actual sales and sales target.
   - Simplified the existing chart by implementing 'category' data as filter
   - Created a calculated field called 'Excess of Target'
   - Formatted the chart - changed the colour scheme to red-blue, changed the font size and made the text bold.
-
+![Picture4](https://github.com/sonalitejura/portfolio-projects/assets/172199569/c23c74b0-41e9-4c7a-8500-71e5f029bb50)
+![Picture5](https://github.com/sonalitejura/portfolio-projects/assets/172199569/5069455b-20af-4c1f-bf4d-083fd955d777)
     
-
-9. **Performance Metrics**
-   - Calculated:
-     - Highest sales region.
-     - Top-selling products.
-     - Average profit margin.
-
-10. **Dashboard Creation**
+9. **Dashboard Creation**
    - Developed the dashboard layout.
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
