@@ -63,7 +63,7 @@ This project showcases data analysis and visualisation techniques applied to a d
 - Created a new data source for 'Sales Target'
     - Mapped ‘Sales’ data to rows and created a bar chart.
     - Assigned 'categories' to rows and mapped it to colour for comparative analysis.
-     ![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
+![Picture1](https://github.com/sonalitejura/portfolio-projects/assets/172199569/fc6a3902-3948-450d-92c4-22cf184bf6b0)
 
 - Utilised data blending to create a dual-axis chart for sales performance
   - Moved 'Target' data to rows, enabling direct comparison with sales figures.
