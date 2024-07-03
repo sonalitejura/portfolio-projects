@@ -9,8 +9,8 @@ This project showcases data analysis and visualisation techniques applied to a d
 
 ## Project Aims
 1. Deliver actionable insights into sales performance and identify key trends.
-2. Analyse customer behavior to understand purchasing patterns and preferences.
-3. Evaluate profitability and identify the main drivers affecting financial success. 
+2. Evaluate how sales performance compares to target sales.
+3. Analyse customer behavior to understand purchasing patterns and preferences.
 
 ## Project Highlights
 - **Data Preparation**: Employed advanced techniques such as table joins and calculated fields for comprehensive analysis.
