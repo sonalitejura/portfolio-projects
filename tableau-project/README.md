@@ -59,18 +59,33 @@ This project showcases data analysis and visualisation techniques applied to a d
    - Set transparency to 75% to manage overlapping circles.
 ![formatted_scatter](https://github.com/sonalitejura/portfolio-projects/assets/172199569/22779cc5-5813-4a02-9807-548729e2c86e)
 
-7. **Product Analysis**
-   - Created a treemap to visualise product popularity and profitability.
-   - Incorporated the 'Year' filter to track yearly trends.
-![treemap](https://github.com/sonalitejura/portfolio-projects/assets/172199569/759ff583-e481-491d-85d3-cf3198f813e6)
+7. **Sales Performance Analysis**
+   a) Created a new data source for 'Sales Target'
+   - Moved ‘Sales’ data to rows, changed the line chart into a bar chart and increased the white space between the bars.
+   - Placed 'categories' into rows and then mapped it to colour for comparative analysis.
 
-8. **Performance Metrics**
+
+  b) Utilised data blending to create a dual-axis chart for sales performance
+  - Moved 'Target' data to rows, enabling direct comparison with sales figures.
+  - Transformed the visualisation into an area chart to easily identify trends.
+  - Created a dual-axis chart with a synchornised axis, facilitating seamless comparisons of sales and targets.
+
+
+
+  c) Created a calculated field to illustrate the difference between actual sales and sales target.
+  - Simplified the existing chart by implementing 'category' data as filter
+  - Created a calculated field called 'Excess of Target'
+  - Formatted the chart - changed the colour scheme to red-blue, changed the font size and made the text bold.
+
+    
+
+9. **Performance Metrics**
    - Calculated:
      - Highest sales region.
      - Top-selling products.
      - Average profit margin.
 
-9. **Dashboard Creation**
+10. **Dashboard Creation**
    - Developed the dashboard layout.
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
