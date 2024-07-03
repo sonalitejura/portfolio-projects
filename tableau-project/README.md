@@ -21,7 +21,7 @@ This project showcases data analysis and visualisation techniques applied to a d
   
   - **Customer Insights**: Utilised a scatter plot to identify high-value customers for targeted marketing efforts.
   
-  - **Sales Performance**: Designed a dual-axis chart to the actual sales vs the target sales.
+  - **Sales Performance**: Designed a dual-axis chart to evaluate actual sales vs the target sales.
   
   - **Time-Based Analysis**: Integrated a yearly filter to allow users to explore and analyse time-based trends.
   
