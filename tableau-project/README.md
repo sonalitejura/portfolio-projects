@@ -84,7 +84,7 @@ This project showcases data analysis and visualisation techniques applied to a d
    - Integrated an actionable filter for enhanced user interaction.
    - Formatted the dashboard for clarity and usability.
 
-![Picture6](https://github.com/sonalitejura/portfolio-projects/assets/172199569/a7456060-610a-4cee-84b2-a92f52e04ab1)
+![dashboard](https://github.com/sonalitejura/portfolio-projects/assets/172199569/e84c2cba-fab7-4141-aa78-d931df89cba9)
 
 
 ## Conclusion
