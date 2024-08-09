@@ -23,3 +23,5 @@ The project will be divided into the following key stages:
 3. **Model Building**: Developing a linear regression model to predict life expectancy.
 4. **Scenario Analysis**: Applying the model to estimate the impact of a 10% increase in net annual income on life expectancy in Dudley.
 
+## Analysis
+A comprehensive evaluation of the model, detailing the rationale behind the model selection, the choice of predictor variables, the impact of these variables on life expectancy, and the reliability of the findings
