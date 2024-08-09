@@ -9,7 +9,7 @@ This projects involves data cleaning, exploratory data analysis and the developm
 - **Build a Linear Regression Model**: The model will predict life expectancy based on the following predictor variables:
   - **Net annual income before household costs**
   - **Index of Multiple Deprivation (IMD) scores**
-  - **Economic inactivity due to long-term sickness or disability**
+  - **Economic inactivity due to long-term sickness or disability (sourced from NOMIS)**
 
 - **Prediction Scenario**: 
   - We will predict how life expectancy in Dudley will change following a 10% increase in net annual income before household costs.
