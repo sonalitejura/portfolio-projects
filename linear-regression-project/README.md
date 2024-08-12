@@ -12,7 +12,7 @@ This projects involves data cleaning, exploratory data analysis and the developm
   - **Economic inactivity due to long-term sickness or disability**
 
 - **Prediction Scenario**: 
-  - Predict how life expectancy in Dudley will change following a 10% increase in net annual income before household costs.
+  - Predict how life expectancy in Birmingham will change following a 15% increase in net annual income before household costs.
 
 ## Data Sources
 Life Expectancy data - sourced from the Office of National Statistics.
