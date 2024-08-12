@@ -15,7 +15,7 @@ This projects involves data cleaning, exploratory data analysis and the developm
   - Predict how life expectancy in Birmingham will change following a 15% increase in net annual income before household costs.
 
 ## Data Sources
-- Life Expectancy data - sourced from the Office of National Statistics.
+- Life Expectancy - sourced from the Office of National Statistics.
 - Net annual income before household cost - sourced from the Office of National Statistics.
 - Index of Multiple Deprivation (IMD) scores - sourced from mySociety, a non-for-profit social enterprise.
 - Economic inactivity due to long-term sickness or disability - sourced from NOMIS.
