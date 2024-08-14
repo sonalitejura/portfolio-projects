@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This projects involves data cleaning, exploratory data analysis and the development a linear regression model. The primary goal is to predict the life expectancy of Middle Layer Super Output Areas (MSOAs) using various socioeconomic factors.
+This projects involves data cleaning, exploratory data analysis and the development a linear regression model. The primary goal is to predict the life expectancy of Middle Layer Super Output Areas (MSOAs) using various socioeconomic factors to derive actionable insights into the determinants of health, which can guide policy decisions.
 
 ## Aims
 
